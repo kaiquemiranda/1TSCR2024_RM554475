@@ -13,3 +13,4 @@ for i in range(n1, n2 + 1):
 
 print(f"\n\nEntre {n1} e {n2} existem {cont_par} pares e {cont_impar} impares")
 
+# Alteração feita para o pix
